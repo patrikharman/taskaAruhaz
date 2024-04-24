@@ -15,23 +15,33 @@ export const TASKALISTA = [
         ar: "40.000FT"
     },
     {
-        kep: "KEPEK/t4.jpg",
-        termek: "Louis Vuitton Waist Bag",
-        ar: "100.000"
+        kep: "KEPEk/t8.jpg",
+        termek: "SPRAYGROUND TRINITY BLUE BACKPACK BLUE",
+        ar: "59.990FT"
     },
     {
-        kep: "KEPEK/t5.jpg",
-        termek: "SPRAYGROUND BAG TRINITY CHECKERED MINI DUFFLE BLACK",
-        ar: "39.990Ft"
+        kep: "KEPEK/t11.jpg",
+        termek: "Sprayground White Shark Mouth Money Bear",
+        ar: "75.990Ft"
     },
     {
-        kep: "KEPEK/t6.jpg",
-        termek: "Sprayground Bear Backpack",
+        kep: "KEPEK/t10.jpg",
+        termek: "Sprayground Unisex Clear Embossed Sharks In Paris",
         ar: "88.990FT"
     },
     {
         kep: "KEPEK/t7.jpg",
         termek: "Sprayground Kid cartoon-print Backpack",
         ar: "72.500FT"
+    },
+    {
+        kep: "KEPEK/t12.jpg",
+        termek: "SPRAYGROUND SHARKS IN PAINT BACKPACK",
+        ar: "55.990FT"
+    },
+    {
+        kep: "KEPEK/t13.jpg",
+        termek: "Backpack Sprayground SPUCCI SPLIT BACKPACK Black",
+        ar: "223.500FT"
     },
 ];
